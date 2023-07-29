@@ -18,9 +18,3 @@ Dependencies
 Python 3.6+
 PyQt5
 
-Running the Application
-Install the required dependencies:
-pip install pyqt5
-
-Run the application:
-python main.py
